@@ -1,0 +1,12 @@
+Django==1.9
+Twisted==15.5.0
+autobahn==0.11.0
+-e git+git@github.com:andrewgodwin/channels.git@e78f75288db6e2e4700daeb93f4c940c8553a048#egg=channels-master
+django-authtools==1.4.0
+django-cors-headers==1.1.0
+djangorestframework==3.3.2
+jsonfield==1.0.3
+six==1.10.0
+txaio==2.2.0
+wsgiref==0.1.2
+zope.interface==4.1.3
